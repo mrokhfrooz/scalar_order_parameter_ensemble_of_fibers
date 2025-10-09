@@ -8,3 +8,5 @@ or Larson's book- section 2.2.2 Rigid nonspherical particles:
 Larson, R. G. (1999). The structure and rheology of complex fluids.
 
 Input should be the unit orientation vector (p) for several fibers, a sample dataset is uploaded along with its screenshot.
+
+Order parameter (ideally) should be 0 for an isotropic gel and 1 for a highly ordered gel.
