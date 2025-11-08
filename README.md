@@ -7,9 +7,10 @@ https://www.researchgate.net/profile/Seyyed-Muhammad-Salili/publication/31302910
 
 
 
-or Larson's book- section 2.2.2 Rigid nonspherical particles:
+or Larson's book:
 
 Larson, R. G. (1999). The structure and rheology of complex fluids.
+(Section 2.2.2 Rigid nonspherical particles)
 
 Input should be the unit orientation vector (p) for several fibers, a sample dataset is uploaded along with its screenshot.
 
