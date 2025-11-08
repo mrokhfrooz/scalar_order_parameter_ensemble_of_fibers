@@ -1,5 +1,5 @@
 # scalar_order_parameter_ensemble_of_fibers
-This short notebook compute the scalar order parameter for an ensemble of fibers (or liquid crystals etc)
+This short notebook (order_param_isotropic.ipynb) compute the scalar order parameter for an ensemble of fibers (or liquid crystals etc)
 
 You can find the definition and formula for this order parameter here:
 
